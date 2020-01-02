@@ -9,7 +9,6 @@ function [watermarked_image]=main_encode(original_image,original_message)
 message_length_max=floor(log2(n*m));
 length_loc_map_max=ceil(log2((n-2)*(m-2)));
 
-message_length=5000;
 [P location_map location_map_length]=preproces_image(original_image);
 border_pixel=mod(P(1:message_length_max+2),2);
 
