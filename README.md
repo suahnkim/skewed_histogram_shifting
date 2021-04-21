@@ -22,7 +22,7 @@ main
 
 # Contributor
 This repository is maintained by Suah Kim @ https://iaslab.org.
-br>You can send email @ suahnkim(at)gmail.com for comments or requests.
+<br>You can send email @ suahnkim(at)gmail.com for comments or requests.
 
 # Donate
 You can send me ethereum: 0x8ee66791696a81add6a2dab71e7833c4d2358a91
