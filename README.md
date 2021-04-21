@@ -21,10 +21,11 @@ OS: Windows 10
 MATLAB version: MATLAB R2021a
 
 # Contributor
-This is maintained by Suah Kim @ https://iaslab.org . 
-You can send email @ suahnkim(at)gmail.com for comments or requests.
+This is maintained by Suah Kim @ https://iaslab.org.
+br>You can send email @ suahnkim(at)gmail.com for comments or requests.
 
 # Donate
-You can buy me a cup of coffee: https://www.buymeacoffee.com/suahnkim <br> 
-Or send me ethereum: 0x8ee66791696a81add6a2dab71e7833c4d2358a91
+You can send me ethereum: 0x8ee66791696a81add6a2dab71e7833c4d2358a91
+<br> Or buy me a cup of coffee: https://www.buymeacoffee.com/suahnkim 
+
 
